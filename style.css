@@ -1,0 +1,24 @@
+* {
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+nav ul {
+  display: compact;
+  list-style: none;
+  justify-content: space-around;
+  width: 40%;
+  
+}
+
+nav a {
+  text-decoration: blue;
+  font-size: 20px;
+}
+
+nav {
+  display: compact;
+  justify-content: space-between;
+}
+  img {
+    float: right;
+  }
